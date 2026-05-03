@@ -3,7 +3,7 @@ Shell script to auto compile the latest gcc.
 
 ## Quick start
 ```bash
-./gcc-compile.sh
+./build.sh
 ```
 
 ## Download the latest pre-build package
